@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Robokassa Letter v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-07-28 18:22+0300\n"
+"PO-Revision-Date: 2023-07-28 18:23+0300\n"
+"Last-Translator: \n"
+"Language-Team: lsweb <info@lsweb.ru>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: Z:/home/ppalomnik/www/wp-content/plugins/robokassa-lsweb-"
+"letter\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. Name of the plugin
+msgid "Robokassa Letter"
+msgstr "Робокасса: письмо"
+
+#. Description of the plugin
+msgid "Generates letter based on paid orders."
+msgstr "Генерирует письмо для отправки заказов. В письмо включаются оплаченные, но ещё не отправленные записки."
+
+#: classes/class-generate-letter.php:61
+msgid "Nothing found."
+msgstr "Ничего не найдено."
+
+#: classes/class-plugin-init.php:20 templates/letter.php:10
+msgid "Generate Letter"
+msgstr "Сгенерировать письмо"
+
+#: classes/class-plugin-init.php:20
+msgid "Letter"
+msgstr "Письмо"
+
+#: classes/class-plugin-init.php:37
+msgid "Error! Try again later."
+msgstr "Ошибка! Повторите попытку позже."
+
+#: plugin.php:58
+msgid "Please install and activate Robokassa Master Plugin first!"
+msgstr "Пожалуйста, установите и активируйте родительский плагин Робокасса!"
+
+#: templates/letter.php:12 templates/letter.php:14
+msgid "Choose place"
+msgstr "Выберите место"
+
+#: templates/letter.php:25
+msgid "Convert cyrilic letters into latin ones"
+msgstr "Заменить кириллические буквы латинскими"
+
+#: templates/letter.php:27
+msgid "Notes included to the letter are those paid but not sent."
+msgstr "В письмо включаются оплаченные, но ещё не отосланные записки."

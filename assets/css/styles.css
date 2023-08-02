@@ -1,0 +1,21 @@
+.robo-letter {
+	display: inline-block;
+	min-width: 25rem;
+	padding: 2rem;
+	background-color: #fff;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.robo-letter.loading {
+	background-image: url( ../images/spinner.svg );
+}
+.robo-letter p {
+	margin: 0 0 1rem;
+}
+.robo-letter p:last-of-type {
+	margin: 0;
+}
+.robo-letter-translit,
+.robo-letter-message {
+	margin: 1.5rem 0;
+}

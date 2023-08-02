@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Robokassa Letter v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-02-11 00:22+0700\n"
+"PO-Revision-Date: 2014-12-14 16:05:58+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList:  __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Textdomain-Support: yes"
+"X-Domain: robokassa-lsweb-letter"
+
+#. Name of the plugin
+msgid "Robokassa Letter"
+msgstr "Робокасса: письмо"
+
+#. Description of the plugin
+msgid "Generates letter based on paid orders."
+msgstr "Генерирует письмо для отправки заказов. В письмо включаются оплаченные, но ещё не отправленные записки."
+
+#. Author URI of the plugin
+msgid "https://lsweb.ru/"
+msgstr ""
+
+#. Author of the plugin
+msgid "lsweb.ru"
+msgstr ""
+
+
